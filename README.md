@@ -10,7 +10,7 @@
 * Submit a pull request from your repository to this repository
 * Put your name in your PR! (Optional: and your least favorite emoji)
 
-### Iteration 1
+### Iteration 1 
 
 Use TDD to create a `Spacecraft` and a `Person` class that respond to the following interaction pattern:
 ```ruby
